@@ -1,6 +1,6 @@
 # Charts created with Apexcharts
 
-Kanban is a page built with Nuxt 3 and TailwindCSS.
+This page built with Nuxt 3 and TailwindCSS and Apexcharts.
 
 ## Setup
 
